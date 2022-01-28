@@ -5,6 +5,6 @@
 - 📫 you can reach me at facebook page 'khalitronics tech solutions', mkhaliphigcona@gmail.com, +268 7814 4903
 
 <!---
-Khalitronics/Khalitronics is a ✨ ICT company in eswatini ✨ one of the leading ICT solution in the country by far. `README.md` (this file) appears on your GitHub profile.
+Khalitronics/Khalitronics is a ✨ ICT company in eswatini ✨ one of the leading ICT solution in the country by far. `README.md` . We are looking forward to expand our dirvesity to more countries.
 You can click the Preview link to take a look at your changes.
 --->

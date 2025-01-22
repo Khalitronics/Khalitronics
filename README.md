@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khalitronics
 - 👀 I’m interested in software development more on mobile app development and website design and development.
-- 🌱 I’m currently learning computer Science at Eswatini Medical Christian university.
+- 🌱 I’m currently specialising in IT, in India Gujarat Technological University for masters.
 - 💞️ I’m looking to collaborate on system software, mobile apps, networking 
 - 📫 you can reach me at facebook page 'khalitronics tech solutions', mkhaliphigcona@gmail.com, +268 7814 4903
 
